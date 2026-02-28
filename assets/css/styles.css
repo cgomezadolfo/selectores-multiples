@@ -1,0 +1,12 @@
+h1 {
+    color:blue
+}
+.titulo{
+    background-color: aquamarine;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.cursiva{
+    font-family: cursive;
+}
